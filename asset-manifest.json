@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokeTimes/static/css/main.97a5be12.chunk.css",
+    "main.js": "/pokeTimes/static/js/main.2ce773b7.chunk.js",
+    "main.js.map": "/pokeTimes/static/js/main.2ce773b7.chunk.js.map",
+    "runtime-main.js": "/pokeTimes/static/js/runtime-main.6563917c.js",
+    "runtime-main.js.map": "/pokeTimes/static/js/runtime-main.6563917c.js.map",
+    "static/js/2.fdc7e99a.chunk.js": "/pokeTimes/static/js/2.fdc7e99a.chunk.js",
+    "static/js/2.fdc7e99a.chunk.js.map": "/pokeTimes/static/js/2.fdc7e99a.chunk.js.map",
+    "index.html": "/pokeTimes/index.html",
+    "precache-manifest.4d1613c47320942e785cff40b53c6d79.js": "/pokeTimes/precache-manifest.4d1613c47320942e785cff40b53c6d79.js",
+    "service-worker.js": "/pokeTimes/service-worker.js",
+    "static/css/main.97a5be12.chunk.css.map": "/pokeTimes/static/css/main.97a5be12.chunk.css.map",
+    "static/js/2.fdc7e99a.chunk.js.LICENSE.txt": "/pokeTimes/static/js/2.fdc7e99a.chunk.js.LICENSE.txt",
+    "static/media/pokeball.png": "/pokeTimes/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6563917c.js",
+    "static/js/2.fdc7e99a.chunk.js",
+    "static/css/main.97a5be12.chunk.css",
+    "static/js/main.2ce773b7.chunk.js"
+  ]
+}
